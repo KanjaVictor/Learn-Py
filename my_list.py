@@ -1,6 +1,6 @@
 my_list = [] # Create an empty list to store the numbers.
 
-nums = (10, 20, 30, 40) # Create a list of numbers.
+nums = [10, 20, 30, 40] # Create a list of numbers.
 
 for x in nums:  #Iterates through the list of numbers.
     my_list.append(x) #Adds the numbers to the list one by one.
